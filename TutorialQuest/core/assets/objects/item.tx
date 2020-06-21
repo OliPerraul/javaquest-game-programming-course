@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="Item" type="Item" width="8" height="8">
+  <properties>
+   <property name="Cost" type="float" value="10"/>
+   <property name="IsShopItem" type="bool" value="true"/>
+   <property name="ItemType" value="Unknown"/>
+   <property name="Sprite" value="objects/medium_health_potion.png"/>
+  </properties>
+  <ellipse/>
+ </object>
+</template>

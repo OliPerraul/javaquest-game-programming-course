@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="Door" type="Door" width="48" height="48">
+  <properties>
+     <property name="Direction" value="Down"/>
+   <property name="Level" value="Dungeon"/>
+   <property name="TransitionID" type="int" value="0"/>
+  </properties>
+  <ellipse/>
+ </object>
+</template>

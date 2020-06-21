@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <tileset firstgid="1" source="../levels/desert.tsx"/>
+ <object name="NPC" type="NPC" gid="20" width="32" height="32">
+  <properties>
+   <property name="Text1" value="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea pe"/>
+   <property name="Text2" value="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea pe"/>
+  </properties>
+ </object>
+</template>

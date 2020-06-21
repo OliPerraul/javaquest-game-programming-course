@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="Gold Sword" type="Item" width="8" height="8">
+  <properties>
+   <property name="Cost" type="float" value="10"/>
+   <property name="Damage" type="float" value="8"/>
+   <property name="EquipType" value="Sword"/>
+   <property name="IsShopItem" type="bool" value="true"/>
+   <property name="ItemType" value="Equip"/>
+   <property name="Knockback" type="float" value="2.5"/>
+   <property name="Sprite" value="objects/gold_sword.png"/>
+  </properties>
+  <ellipse/>
+ </object>
+</template>

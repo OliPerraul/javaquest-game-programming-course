@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="Small Potion" type="Item" width="8" height="8">
+  <properties>
+   <property name="Cost" type="float" value="10"/>
+   <property name="IsShopItem" type="bool" value="true"/>
+   <property name="ItemType" value="Consumable"/>
+   <property name="Sprite" value="objects/medium_health_potion.png"/>
+   <property name="Value" type="float" value="0"/>
+  </properties>
+  <ellipse/>
+ </object>
+</template>

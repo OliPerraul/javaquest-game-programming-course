@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="Gold Sword" type="Item" width="8" height="8">
+  <properties>
+   <property name="Cost" type="float" value="10"/>
+   <property name="IsShopItem" type="bool" value="true"/>
+   <property name="ItemType" value="Key"/>
+   <property name="Level" value="Dungeon"/>
+   <property name="Sprite" value="objects/gold_sword.png"/>
+   <property name="TransitionID" type="int" value="0"/>
+  </properties>
+  <ellipse/>
+ </object>
+</template>
